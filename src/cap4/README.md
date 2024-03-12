@@ -1,0 +1,4 @@
+# Capitulo 4
+
+En este capítulo se explican a fondo toda los servicios internos del juez. Se detalla las tecnologías utilizadas incluyendo **Axum**, **RabbitMQ** y **Redis** . Además, se profundiza en la base de datos, presentando el diagrama entidad-relación y las migraciones. Se describen también aspectos clave del servidor web, como la autenticación de usuarios, el uso de SSE, medidas de seguridad implementadas, el servidor **SMTP** y aspectos de rendimiento como el SPA con HTML. El capítulo también aborda el evaluador, detallando su arquitectura, diseño del código, medidas de seguridad implementadas y optimización. Finalmente, se presenta el sistema de envíos y concursos, explicando el flujo de un envío, el funcionamiento de un concurso y el sistema de notificaciones en tiempo real. Por ultimo se detalla los aspectos de la administración del juez, incluyendo el modelo de roles y grupos.
+
